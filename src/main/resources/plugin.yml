@@ -1,0 +1,18 @@
+name: CVTimer
+main: org.cubeville.cvtimer.CVTimer
+author: ToeMan_
+version: 1.19
+api-version: 1.16
+
+depend: [ProtocolLib]
+
+commands:
+  cvtimer:
+    aliases: timer
+    permission: cvtimer.admin
+
+permissions:
+
+  cvtimer.admin:
+    description: Gives player access to every CVTimer command
+    default: op
