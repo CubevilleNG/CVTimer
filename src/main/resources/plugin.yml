@@ -1,7 +1,7 @@
 name: CVTimer
 main: org.cubeville.cvtimer.CVTimer
 author: ToeMan_
-version: 1.19
+version: 1.20
 api-version: 1.16
 softdepend:  [PlaceholderAPI]
 
